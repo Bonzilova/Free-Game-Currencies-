@@ -10,16 +10,12 @@ Bonzi=&H409
 [Script]
 Bonzi.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273001}"
 Bonzi.Show
-Bonzi.Speak "Dion is lov cake"
 Bonzi.MoveTo 1470, 437
 Bonzi.MoveTo 1516, 435
 Bonzi.MoveTo 1476, 430
 Bonzi.MoveTo 1258, 557
-Bonzi.Speak "Dioni is lov patapim"
 Bonzi.MoveTo 1449, 510
-Bonzi.Speak "SKIBIDI TOILET DION NEYMAR PLS ONE FOTO"
 Bonzi.MoveTo 984, 489
-Bonzi.Speak "Hello erion i am virus i will break your pc."
 Bonzi.MoveTo 1410, 520
 Bonzi.MoveTo 893, 478
 Bonzi.MoveTo 821, 516
