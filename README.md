@@ -1,46 +1,5 @@
 # Free-Game-Currencies-
 Its REAL! I CRACKED IT!
-8
-/
-/
-/
-/
-/
-/
-/
-/
-/
-*
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-
-
-
-
-scroll down
 
 
 
